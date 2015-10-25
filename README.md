@@ -53,7 +53,7 @@ AUTHORS
 Copyright and License
 ---------------------
 
-Copyright 2011 Mark Otto and Dave Gamache.
+Copyright 2015 Mark Otto and Dave Gamache.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
