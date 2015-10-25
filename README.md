@@ -1,4 +1,4 @@
-Custom Sublime Text 2 Snippets
+Custom Sublime Text Snippets
 ==============================
 
 Sublime Text is famous and advanced . We think it can be made more awesome by adding some custom snippets, gather  this  library.
